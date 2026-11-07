@@ -1,5 +1,5 @@
 ---
-name: consulting-PTM
+name: consulting-PTA
 category: consulting
 description: "Use when 做咨询/行研/尽调/测算/竞品分析等交付。"
 version: 1.1.0
@@ -10,7 +10,7 @@ metadata:
     related_skills: [market-sizing, competitive-positioning, private-equity-investment-dd]
 ---
 
-# 咨询顾问入门工作法（Consulting PTM）
+# 咨询顾问入门工作法（Consulting PTA）
 
 一份给初级咨询顾问的自查手册：接到题怎么想、资料怎么查、模型怎么搭、报告怎么写、会怎么开。
 适用于战略咨询、商业尽调、行业研究、市场进入、投资并购等各类项目。
